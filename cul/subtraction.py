@@ -1,5 +1,6 @@
 import random
 import math
-import balance3
+import balance
+
 times = int(input("times: "))
 power = int(input("power: "))
